@@ -59,3 +59,4 @@ Saved/**
 *.target
 *.lib
 Content/Maps/IslandMap.umap
+*.dylib
