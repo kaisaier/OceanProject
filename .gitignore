@@ -60,3 +60,4 @@ Saved/**
 *.lib
 Content/Maps/IslandMap.umap
 *.dylib
+Content/.DS_Store
